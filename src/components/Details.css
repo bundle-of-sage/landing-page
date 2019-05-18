@@ -1,0 +1,17 @@
+.detail-container {
+  padding-right: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.title {
+  color: #97422b;
+  font-size: 18px;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-right: auto;
+}
+.detail-paragraph {
+  font-size: 14px;
+}

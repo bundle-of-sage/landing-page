@@ -7,7 +7,7 @@ import Purpose from "../components/Purpose"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Bundle of Sage | Education Platform for Photographers" keywords={[`gatsby`, `application`, `react`]} />
     <div
       style={{
         height: "calc(100vh - 50px)",
