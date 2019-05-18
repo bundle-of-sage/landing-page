@@ -1,5 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Philosopher:400,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap");
+
 html {
-  font-family: sans-serif;
+  font-family: "Open Sans", Tahoma, Geneva, Verdana, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -61,8 +64,9 @@ dfn {
   font-style: italic;
 }
 h1 {
-  font-size: 2em;
+  font-size: 0.5em;
   margin: 0.67em 0;
+  font-family: "Philosopher", sans-serif;
 }
 mark {
   background-color: #ff0;
@@ -230,9 +234,10 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-weight: bold;
+  font-family: "Open Sans Pro", -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+    sans-serif;
+  font-weight: 600;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
